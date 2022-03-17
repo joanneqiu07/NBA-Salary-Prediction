@@ -21,8 +21,11 @@ clean the salary column. combine two datasets together. Done data cleaning
 
 2. Distribution Graph
 Use Plotly to create an interactive plot
+
 ![newplot](https://user-images.githubusercontent.com/85484264/158737280-9cb2cf2e-de5e-4d65-8d00-dd7051a8c2e8.png)
+
 Create histograms to see the distributions of different variables
+
 ![hist](https://user-images.githubusercontent.com/85484264/158738170-b6d38dc4-c77a-4e18-bd5e-74bb67bf7c04.PNG)
 
 3. Basic Statistcs
@@ -57,15 +60,18 @@ The limitation of this program is that the features need to be modified accordin
 MIT License and Terms of use
 
 # References and acknowledgement
-2021-22 NBA Player Contracts: NBA players contracts in 2021-2022 on the Basketball Reference site(https://www.basketball-reference.com/contracts/players.html).
+NBA players contracts in 2021-2022 on the Basketball Reference site(https://www.basketballreference.com/contracts/players.html).
 
 # Background and source of the dataset
-20-21 NBA players: NBA players stats in 2020-2021 on Kaggle(https://www.kaggle.com/justinas/nba-players-data).
-Current NBA Players Contracts History: NBA players contracts history in 2011-2019 on Kaggle(https://www.kaggle.com/jarosawjaworski/current-nba-players-contracts-history).
-NBA players stats: All NBA players stats on the NBA data site(https://www.nba.com/stats/)
+NBA players stats in 2020-2021 on Kaggle(https://www.kaggle.com/justinas/nba-players-data).
+
+NBA players contracts history in 2011-2019 on Kaggle(https://www.kaggle.com/jarosawjaworski/current-nba-players-contracts-history).
+
+All NBA players stats on the NBA data site(https://www.nba.com/stats/)
 
 # Tutorials
 1. NBA Salary Prediction using Multiple Regression: A tutorial of using a linear regression model to predict NBA players’salary in R(https://www.kaggle.com/koki25ando/nba-salary-prediction-using-multiple-regression/report). 
+
 2. Plotly tutorials on the official website: tutorials of using Plotly to visualize data(https://plotly.com/python/plotly-fundamentals/).
 
 
