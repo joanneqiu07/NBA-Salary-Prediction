@@ -22,6 +22,7 @@ Import two datasets and clean the data with the Cleaner class.
 Steps include cleaning the salary column, merging two datasets together, and changing columns' names.
 
 2. Distribution Graph
+
 Use Plotly to create an interactive plot
 
 ![newplot](https://user-images.githubusercontent.com/85484264/158737280-9cb2cf2e-de5e-4d65-8d00-dd7051a8c2e8.png)
