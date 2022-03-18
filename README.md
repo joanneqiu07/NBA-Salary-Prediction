@@ -19,7 +19,11 @@ Use `conda create --name NEWENV --file requirements.txt` to install the package 
 Download the cleaner.py(https://github.com/joanneqiu07/nba-salary-prediction/blob/17edc0795688a11540bf06f4086837f2cbc81d47/cleaner.py)
 
 # Detailed description
+
+There are ten steps in our project. The demo file has included detailed comment for users to follow the progress.
+
 1. Features Engineering
+
 Import two datasets and clean the data with the Cleaner class. 
 Steps include cleaning the salary column, merging two datasets together, and changing columns' names.
 
@@ -34,6 +38,7 @@ Create histograms to see the distributions of different variables
 ![hist](https://user-images.githubusercontent.com/85484264/158738170-b6d38dc4-c77a-4e18-bd5e-74bb67bf7c04.PNG)
 
 3. Basic Statistcs
+
 Check for multilinearity
 
 ![Hotmap](https://user-images.githubusercontent.com/85484264/158738312-6b5e27bc-fa66-4db1-9b7c-4bbb930f0dd8.PNG)
@@ -42,23 +47,32 @@ separate the data into label and train set.
 
 4. Train, Test Spliting
 
+Split the training set and the testing set.
+
 5. Defining metrics
 
+Define a function called `regress_results()` to calculate different scores of the models.
+
 6. Linear Regression
+
 Build a linear regression model and fit it to the training set.
 Test the regression model.
 Fit a linear model using the Ordinary Least Squares.
 
 7. Principle Component Analysis
+
 Since there are some features that have multi-colinearity, we can use PCA to reduce the dimensions of our input. Reformat and view results, reduce the features to two.
 
 8. AdaBoost
+
 Build an AdaBoost Regression model and check its performance.
 
 9. RandomForest
+
 Build a random forest model and check its performance.
 
 10. Cross Validation
+
 Use cross validation to improve the models.
 
 # Scope and limitations
