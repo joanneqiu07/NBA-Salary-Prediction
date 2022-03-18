@@ -23,7 +23,7 @@ Steps include cleaning the salary column, merging two datasets together, and cha
 
 2. Distribution Graph
 
-Use Plotly to create an interactive plot
+Use Plotly to create an interactive plot for users to check the stats for each player and see the relation between points and salary (Points vs. Salary)
 
 ![newplot](https://user-images.githubusercontent.com/85484264/158737280-9cb2cf2e-de5e-4d65-8d00-dd7051a8c2e8.png)
 
