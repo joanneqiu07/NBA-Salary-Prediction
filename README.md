@@ -39,11 +39,10 @@ Create histograms to see the distributions of different variables
 
 3. Basic Statistcs
 
-Check for multilinearity
+In this step, we use `describe()` and `corr()` to overview the basic information of the data. We then use `seabon` to check for multilinearity.
 
 ![Hotmap](https://user-images.githubusercontent.com/85484264/158738312-6b5e27bc-fa66-4db1-9b7c-4bbb930f0dd8.PNG)
-
-separate the data into label and train set.
+The image shows the correaltions between different variables. 
 
 4. Train, Test Spliting
 
