@@ -18,8 +18,8 @@ Download the cleaner.py(https://github.com/joanneqiu07/nba-salary-prediction)
 
 # Detailed description
 1. Features Engineering
-import two datasets and clean the data with the Cleaner class. 
-clean the salary column. combine two datasets together. Done data cleaning
+Import two datasets and clean the data with the Cleaner class. 
+Steps include cleaning the salary column, merging two datasets together, and changing columns' names.
 
 2. Distribution Graph
 Use Plotly to create an interactive plot
@@ -55,6 +55,9 @@ Build an AdaBoost Regression model and check its performance.
 9. RandomForest
 Build a random forest model and check its performance.
 
+10. Cross Validation
+Use cross validation to improve the models.
+
 # Scope and limitations
 The limitation of this program is that the features need to be modified according to different Datasets. You can modify the parameters according to your purpose. More features can be extended to make different predictions.
 
@@ -66,8 +69,6 @@ NBA players contracts in 2021-2022 on the Basketball Reference site(https://www.
 
 # Background and source of the dataset
 NBA players stats in 2020-2021 on Kaggle(https://www.kaggle.com/justinas/nba-players-data).
-
-NBA players contracts history in 2011-2019 on Kaggle(https://www.kaggle.com/jarosawjaworski/current-nba-players-contracts-history).
 
 All NBA players stats on the NBA data site(https://www.nba.com/stats/)
 
