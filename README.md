@@ -9,6 +9,8 @@ The project is about to use past stats, such as scores, player efficiency rate, 
 players to predict their salary for the future season by applying multiple regression. The inputs will be the
 basic stats for the player and the outputs will be a numerical value of salary prediction.
 
+The cleaner.py is our custom class for data cleaning. The 
+
 # Package requirements
 We used packages learned in class, such as pandas, numpy, sklearn, and matplotlib. We also included other packages, such as Plotly, seaborn, and statsmodels
 
