@@ -10,7 +10,9 @@ players to predict their salary for the future season by applying multiple regre
 basic stats for the player and the outputs will be a numerical value of salary prediction.
 
 # Package requirements
-pandas, numpy, plotly.express, matplotlib.pyplot, seaborn, sklearn.model_selection, sklearn.metrics, sklearn.linear_model, statsmodels.api, sklearn.decomposition, sklearn.ensemble
+We used packages learned in class, such as pandas, numpy, sklearn, and matplotlib. We also included other packages, such as Plotly, seaborn, and statsmodels
+
+Use `conda create --name NEWENV --file requirements.txt` to install the package requirements
 
 Download the cleaner.py(https://github.com/joanneqiu07/nba-salary-prediction)
 
