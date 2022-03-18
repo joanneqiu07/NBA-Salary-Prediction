@@ -16,7 +16,7 @@ We used packages learned in class, such as pandas, numpy, sklearn, and matplotli
 
 Use `conda create --name NEWENV --file requirements.txt` to install the package requirements
 
-Download the cleaner.py(https://github.com/joanneqiu07/nba-salary-prediction)
+Download the cleaner.py(https://github.com/joanneqiu07/nba-salary-prediction/blob/17edc0795688a11540bf06f4086837f2cbc81d47/cleaner.py)
 
 # Detailed description
 1. Features Engineering
