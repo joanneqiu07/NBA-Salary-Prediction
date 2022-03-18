@@ -74,6 +74,11 @@ Build a random forest model and check its performance.
 
 Use cross validation to improve the models.
 
+# Conclusion
+
+According to our cross validation, we found out that linear regression method will always have a higher r2 score on average. However, the difference in r2 value is relatively small. The three models' performance are around the same; therefore, looking for other models to achive our goal to predict salaray for NBA players can increase our performance.
+
+
 # Scope and limitations
 The limitation of this program is that the features need to be modified according to different Datasets. You can modify the parameters according to your purpose. More features can be extended to make different predictions.
 
